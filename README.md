@@ -1,6 +1,7 @@
 # EventBot
 Facebook Messenger bot to enhance the flow of your event.
 
+
 EventBotInAction allows you to setup the behaviour of your bot.
 
 After having created a profile of your bot on facebook,
